@@ -1,0 +1,10 @@
+
+.double_head h1::before {
+     content:"EAT. DRINK. PLAY.";
+    -webkit-text-stroke: 2px #95C11E;
+}
+
+
+.txt_stroke {
+    -webkit-text-stroke: 2px white;
+}
